@@ -24,12 +24,16 @@
 */
 var NAVTREE =
 [
-  [ "Red Stone Team Smart Car", "index.html", ]
+  [ "Red Stone Team Smart Car", "index.html", [
+    [ "Files", "files.html", [
+      [ "File List", "files.html", "files_dup" ]
+    ] ]
+  ] ]
 ];
 
 var NAVTREEINDEX =
 [
-"index.html"
+"dir_1e4742556a16d14eb1fed1dfd2157718.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronization';
