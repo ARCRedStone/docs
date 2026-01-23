@@ -25,17 +25,21 @@
 var NAVTREE =
 [
   [ "Red Stone Team Smart Car", "index.html", [
-    [ "Files", "files.html", [
-      [ "File List", "files.html", "files_dup" ]
+    [ "类", "annotated.html", [
+      [ "类列表", "annotated.html", "annotated_dup" ],
+      [ "类索引", "classes.html", null ]
+    ] ],
+    [ "文件", "files.html", [
+      [ "文件列表", "files.html", "files_dup" ]
     ] ]
   ] ]
 ];
 
 var NAVTREEINDEX =
 [
-"dir_1e4742556a16d14eb1fed1dfd2157718.html"
+"annotated.html"
 ];
 
-var SYNCONMSG = 'click to disable panel synchronization';
-var SYNCOFFMSG = 'click to enable panel synchronization';
-var LISTOFALLMEMBERS = 'List of all members';
+var SYNCONMSG = '点击 关闭 面板同步';
+var SYNCOFFMSG = '点击 开启 面板同步';
+var LISTOFALLMEMBERS = '所有成员列表';
