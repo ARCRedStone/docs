@@ -6,8 +6,9 @@ var NAVTREEINDEX0 =
 "class_d_c_motor.html#aaad561b231211160a8ed35a8f351e137":[1,0,0,1],
 "class_d_c_motor.html#abbe4b8087c5b3a20bb4e5928229a2d37":[1,0,0,0],
 "classes.html":[1,1],
-"dc__motor_8h.html":[2,0,0,1,0,0],
-"dc__motor_8h_source.html":[2,0,0,1,0,0],
+"dc__motor_8cpp.html":[2,0,0,1,0,0],
+"dc__motor_8h.html":[2,0,0,1,0,1],
+"dc__motor_8h_source.html":[2,0,0,1,0,1],
 "dir_0754c7df4cc8e82f7ea53e49214ef07a.html":[2,0,0,1,0],
 "dir_1e4742556a16d14eb1fed1dfd2157718.html":[2,0,0,0,0],
 "dir_4650b0af67697a2c5059239e2ad747a7.html":[2,0,0,1],
@@ -30,7 +31,8 @@ var NAVTREEINDEX0 =
 "namespacetimer_tools.html#adde500976c0501f7c729c0b373904983":[0,0,0,1],
 "pages.html":[],
 "pid__basic_8h_source.html":[2,0,0,0,0,0],
-"timer__tools_8h.html":[2,0,0,1,1,0],
-"timer__tools_8h.html#a3d236c1765201d49ee0f728c6e566cfa":[2,0,0,1,1,0,0],
-"timer__tools_8h_source.html":[2,0,0,1,1,0]
+"timer__tools_8cpp.html":[2,0,0,1,1,0],
+"timer__tools_8h.html":[2,0,0,1,1,1],
+"timer__tools_8h.html#a3d236c1765201d49ee0f728c6e566cfa":[2,0,0,1,1,1,0],
+"timer__tools_8h_source.html":[2,0,0,1,1,1]
 };
