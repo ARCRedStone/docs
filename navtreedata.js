@@ -26,6 +26,7 @@ var NAVTREE =
 [
   [ "Red Stone Team Smart Car", "index.html", [
     [ "待办事项列表", "todo.html", null ],
+    [ "专题", "topics.html", "topics" ],
     [ "命名空间", "namespaces.html", [
       [ "命名空间列表", "namespaces.html", "namespaces_dup" ],
       [ "命名空间成员", "namespacemembers.html", [
